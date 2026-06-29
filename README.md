@@ -6,7 +6,7 @@
 <!-- ========== ANIMATED TYPING SVG ========== -->
 <p align="center">
   <a href="https://github.com/Vidanshu24">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Turning+Raw+Data+Into+Actionable+Insights+📊;Building+Dashboards+That+Tell+Stories+📈;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning+🤖;Let's+Connect+and+Collaborate!+🤝" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=150&lines=Turning+Raw+Data+Into+Actionable+Insights+📊;Building+Dashboards+That+Tell+Stories+📈;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning+🤖;Let's+Connect+and+Collaborate!+🤝" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,24 +24,24 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
 
 ```yaml
-name: Vidanshu Rautela
-located_in: India
-current_role: Aspiring Data Analyst / Data Scientist
-education:
+Name: Vidanshu Rautela
+Located_in: India
+Current_role: Data Analyst / Data Scientist
+Education:
   - "Building expertise in Data Analytics & Data Science"
 
-fields_of_interest:
+Fields_of_interest:
   - "Data Analysis & Visualization"
   - "Machine Learning & Predictive Modeling"
   - "Business Intelligence & Dashboarding"
   - "Statistical Analysis"
 
-currently_learning:
+Currently_learning:
   - "Deep Learning (Neural Networks)"
   - "Cloud Computing (AWS)"
   - "Apache Spark (Big Data)"
 
-fun_fact: "I believe every dataset has a story — my job is to find it 📖"
+Fun_fact: "I believe every dataset has a story — my job is to find it 📖"
 ```
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlicGhqNmFqbjlmMnRrYm55dGNkbHkzOHV2YTh1c2Z2ZWlwNHZkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
